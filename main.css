@@ -225,7 +225,7 @@ h1, h2, h3, h4{
 /* catalogs */
 .catalog-left{
     min-height: 420px;
-    background: url ('..images/12957705.jpeg') 
+    background: url ('images/12957705.jpeg') 
 }
 .catalog-right{
     flex-direction: column;
@@ -259,6 +259,9 @@ h1, h2, h3, h4{
     }
     .header-left{
         text-align: left;
+    }
+    .header-center{
+        text-align: center;
     }
     .header-content{
         padding-top: 0;
