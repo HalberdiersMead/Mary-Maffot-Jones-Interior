@@ -53,12 +53,14 @@ h1, h2, h3, h4{
 }
 /* navigation bar */
 .navigationbar{
+    font-size: 1rem;
     height: 80px;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 999;
+    font-weight: 500;
 }
 
 .navigationbar .container{
