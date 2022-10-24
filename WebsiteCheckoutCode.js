@@ -14,7 +14,7 @@ sessionStorage.setItem( "total", updatedTotal); //240 is a string
 var cart = {
     item: "Product 1",
     price: 10.00 // this price is temporary 
-    qty : 2 // two is a starting value  will increase by how many itmes are there? 
+    ,qty : 2 // two is a starting value  will increase by how many itmes are there? 
 };
 
 var jsonStr = JSON.stringify( cart );
